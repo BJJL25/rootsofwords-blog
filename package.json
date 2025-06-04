@@ -19,13 +19,13 @@
     "remark-gfm": "^4.0.1"
   },
   "devDependencies": {
-    "@types/node": "22.15.27",
-    "autoprefixer": "^10.4.14",
-    "eslint": "8.56.0",
-    "eslint-config-next": "13.5.11",
-    "postcss": "^8.4.24",
-    "tailwindcss": "^3.3.2",
-    "@tailwindcss/typography": "^0.5.9",
-    "typescript": "~5.3.0"
-  }
+  "@types/node": "22.15.27",
+  "autoprefixer": "^10.4.14",
+  "eslint": "8.56.0",
+  "eslint-config-next": "13.5.11",
+  "postcss": "^8.4.24",
+  "tailwindcss": "^3.3.2",
+  "@tailwindcss/typography": "^0.5.9",
+  "typescript": "~5.3.0"
+}
 }
